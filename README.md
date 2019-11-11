@@ -5,6 +5,4 @@ The aim of this pipeline project is to find the link (if any) between suicide ra
 First, I used a database (from kaggle.com) which was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum. I then used a range of different methods so to clean it and adequate what would be my database to my future needs (i.e, I got rid of all the countries except from the ones mentioned above).
 
 
-Once I had both dataframes clean and tidy, I merged them so to have one which I could directly call from my main function instead of having the program to clean and scrap each time I asked for something.
-
 Finally, I added two parameters to my main function (country and year) which are the two variables the user is going to search for in the terminal. The output will be a sentence which compiles information on suicide rates (total, male and female suicides on average) and average sunchine hours given country gets on given year.
