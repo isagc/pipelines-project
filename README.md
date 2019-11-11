@@ -1,6 +1,6 @@
 # pipelines-project
 
-The aim of this pipeline project is to find the link (if possible) between suicide rates in any of the Nordic Countries (Norway, Sweden, Finland, Iceland and Denmark) and Spain (so to have it as a contrast), and the average annual hours of sunshine they get for a given year.
+The aim of this pipeline project is to find the link (if any) between suicide rates in any of the Nordic Countries (Norway, Sweden, Finland, Iceland and Denmark) and Spain (so to have it as a contrast), and the average annual hours of sunshine they get for a given year.
 
 First, I used a database (from kaggle.com) which was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum. I then used a range of different methods so to clean it and adequate what would be my database to my future needs (i.e, I got rid of all the countries except from the ones mentioned above).
 
